@@ -1,0 +1,92 @@
+{
+  "etablissements": 102939,
+  "geolocalisations": 102939,
+  "entites_juridiques": 54125,
+  "concepts_r397": 429,
+  "problemes_structure": [],
+  "date_extraction": "2026-05-12",
+  "points_reprojetes": 102937,
+  "projections_inconnues": 0,
+  "date_execution": "2026-10-06",
+  "score_global": 95.7,
+  "anomalies_par_severite": {
+    "Majeure": 4465,
+    "Bloquante": 32,
+    "Information": 1615,
+    "Mineure": 23389
+  },
+  "etablissements_touches_par_severite": {
+    "Mineure": 20478,
+    "Information": 1613,
+    "Majeure": 4398,
+    "Bloquante": 32
+  },
+  "anomalies_par_regle": {
+    "R05": 13,
+    "R06": 12,
+    "R07B": 9,
+    "R08": 972,
+    "R08B": 32,
+    "R10": 1185,
+    "R11": 12080,
+    "R12": 2,
+    "R13": 4665,
+    "R14": 9,
+    "R15": 2,
+    "R16": 2283,
+    "R17": 6633,
+    "R18": 1604
+  },
+  "top10_categories": [
+    {
+      "categorie": "Foyer de Vie pour Adultes Handicapés",
+      "anomalies": 1089,
+      "etablissements": 1059
+    },
+    {
+      "categorie": "Foyer Hébergement Adultes Handicapés",
+      "anomalies": 733,
+      "etablissements": 708
+    },
+    {
+      "categorie": "Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)",
+      "anomalies": 368,
+      "etablissements": 363
+    },
+    {
+      "categorie": "Service autonomie aide (SAA)",
+      "anomalies": 222,
+      "etablissements": 10026
+    },
+    {
+      "categorie": "Pharmacie d'Officine",
+      "anomalies": 206,
+      "etablissements": 20003
+    },
+    {
+      "categorie": "Autre Centre d'Accueil",
+      "anomalies": 188,
+      "etablissements": 1681
+    },
+    {
+      "categorie": "Maison d'Enfants à Caractère Social",
+      "anomalies": 154,
+      "etablissements": 1888
+    },
+    {
+      "categorie": "Groupement de coopération sanitaire de moyens",
+      "anomalies": 115,
+      "etablissements": 924
+    },
+    {
+      "categorie": "Service d'aide et d'accompagnement à domicile aux familles",
+      "anomalies": 80,
+      "etablissements": 782
+    },
+    {
+      "categorie": "Etablissement Expérimental pour Adultes Handicapés",
+      "anomalies": 79,
+      "etablissements": 75
+    }
+  ]
+}

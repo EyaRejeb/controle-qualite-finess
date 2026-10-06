@@ -1,0 +1,172 @@
+categorie_code,categorie,agregat,etablissements,score_qualite,anomalies_bloquantes_majeures,pct_siret_absent
+382,Foyer de Vie pour Adultes Handicapés,Etab. et Services d'Hébergement pour Adultes Handicapés,1059,0.0,1089,18.1
+252,Foyer Hébergement Adultes Handicapés,Etab. et Services d'Hébergement pour Adultes Handicapés,708,0.0,733,13.4
+437,Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.),Etab. et Services d'Hébergement pour Adultes Handicapés,363,0.0,368,8.3
+460,Service autonomie aide (SAA),Etablissements et services multi-clientèles,10026,97.79,222,9.8
+620,Pharmacie d'Officine,Commerce de Biens à Usage Médicaux,20003,98.97,206,0.0
+219,Autre Centre d'Accueil,Etablissements pour Adultes et Familles en Difficulté,1681,88.94,188,10.5
+177,Maison d'Enfants à Caractère Social,Etablissements de l'Aide Sociale à l'Enfance,1888,91.84,154,11.8
+696,Groupement de coopération sanitaire de moyens,Autres Etablissements Relevant de la Loi Hospitalière,924,87.55,115,38.5
+640,Service d'aide et d'accompagnement à domicile aux familles,Etablissements pour Adultes et Familles en Difficulté,782,89.77,80,11.6
+379,Etablissement Expérimental pour Adultes Handicapés,Etab.Expérimentaux en Faveur des Adultes Handicapés,75,0.0,79,48.0
+449,Etab.Accueil Non Médicalisé pour personnes handicapées,Etab. et Services d'Hébergement pour Adultes Handicapés,1408,95.1,69,23.5
+182,Service d'Éducation Spéciale et de Soins à Domicile,Services à Domicile ou Ambulatoires pour Handicapés,1591,96.61,54,27.9
+230,Etablissement Consultation Protection Infantile,Etablissements de PMI et de Planification Familiale,924,94.37,52,34.2
+377,Etablissement Expérimental pour Enfance Handicapée,Etab. Expérimentaux en Faveur de l'Enfance Handicapée,46,0.0,48,52.2
+500,Etablissement d'hébergement pour personnes âgées dépendantes,Etablissements d'Hébergement pour Personnes Âgées,7399,99.43,42,5.3
+462,Lieux de Vie et d'Accueil,Etablissements et services multi-clientèles,794,94.71,42,8.8
+446,Service d'Accompagnement à la Vie Sociale (S.A.V.S.),Services de Maintien à Domicile pour Handicapés,1084,96.31,40,21.3
+223,Protection Maternelle et Infantile (P.M.I.),Etablissements de PMI et de Planification Familiale,971,96.09,38,39.6
+355,Centre Hospitalier (C.H.),Centres Hospitaliers,1371,97.3,37,15.0
+126,Etablissement Thermal,Autres Etablissements Relevant de la Loi Hospitalière,124,73.39,33,16.1
+697,Groupement de coopération sanitaire - Etablissement de santé,Autres Etablissements Relevant de la Loi Hospitalière,88,64.77,31,12.5
+183,Institut Médico-Educatif (I.M.E.),Etab.Educ.Spéciale pour Déficients Mentaux et Handicapés,1538,97.98,31,19.2
+295,Services AEMO et AED,Services Concourant à la Protection de l'Enfance,551,94.56,30,13.4
+441,Service d'Intervention Educative en Milieu Ouvert,Etab.et Services du Ministère de la Justice pour Mineurs,471,94.27,27,8.3
+214,Centre Hébergement & Réinsertion Sociale (C.H.R.S.),Etablissements pour Adultes et Familles en Difficulté,883,97.06,26,2.4
+292,Centre Hospitalier Spécialisé lutte Maladies Mentales,Centres Hospitaliers Spécialisés Lutte Maladies Mentales,1406,98.22,25,24.4
+354,Service de Soins Infirmiers A Domicile (S.S.I.A.D),Etablissements et services multi-clientèles,1737,98.56,25,12.4
+247,Entreprise adaptée,Etab.et Services de Travail Protégé pour Adultes Handicapés,515,95.34,24,13.4
+253,Foyer d'Accueil Polyvalent pour Adultes Handicapés,Etab. et Services d'Hébergement pour Adultes Handicapés,22,0.0,22,18.2
+124,Centre de Santé,Centres de Santé,3393,99.38,21,10.1
+378,Etablissement Expérimental Enfance Protégée,Etab. Expérimentaux en Faveur de l'Enfance Protégée,260,91.92,21,13.5
+611,Laboratoire de Biologie Médicale,Laboratoires de Biologie Médicale,4535,99.56,21,13.5
+101,Centre Hospitalier Régional (C.H.R.),Centres Hospitaliers Régionaux,388,94.59,21,24.0
+156,Centre Médico-Psychologique (C.M.P.),Autres Etablissements de Lutte contre les Maladies Mentales,1947,98.97,20,22.3
+603,Maison de santé (L.6223-3),Autres structures d'exercice libéral,3107,99.36,20,17.5
+258,Maisons Relais - Pensions de Famille,Logements en Structure Collective,1095,98.54,16,9.2
+109,Etablissement de santé privé autorisé en SSR,Etablissements de santé privé autorisés en SSR,708,97.74,16,4.1
+370,Etablissement Expérimental pour personnes handicapées,Etab. et Services d'Hébergement pour Adultes Handicapés,142,88.73,16,65.5
+246,Etablissement et Service d'Aide par le Travail (E.S.A.T.),Etab.et Services de Travail Protégé pour Adultes Handicapés,1511,98.94,16,5.2
+132,Etablissement de Transfusion Sanguine,Transfusion Sanguine,211,92.89,15,13.7
+695,Groupement de coopération sanitaire de moyens - Exploitant,Autres Etablissements Relevant de la Loi Hospitalière,55,74.55,14,23.6
+698,Autre Etablissement Loi Hospitalière,Autres Etablissements Relevant de la Loi Hospitalière,1119,98.84,13,20.2
+257,Foyer de Jeunes Travailleurs (résidence sociale ou non),Autres Etablissements Sociaux d'Hébergement et d'Accueil,707,98.16,13,10.9
+202,Résidences autonomie,Etablissements d'Hébergement pour Personnes Âgées,2286,99.48,12,10.1
+300,Ecoles Formant aux Professions Sanitaires,Etablissements de Formation des Personnels Sanitaires,731,98.36,12,9.0
+259,"Autre Résidence Sociale (hors Maison Relais, Pension de Fami",Logements en Structure Collective,1235,99.11,11,8.3
+228,Centre de santé sexuelle,Etablissements de PMI et de Planification Familiale,464,97.63,11,32.5
+175,Foyer de l'Enfance,Etablissements de l'Aide Sociale à l'Enfance,274,95.99,11,13.9
+448,Etab.Acc.Médicalisé en tout ou partie personnes handicapées,Etab. et Services d'Hébergement pour Adultes Handicapés,764,98.56,11,17.4
+186,Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.),Etab.Educ Spéciale pour Enfants Trouble Conduite et Comport,591,98.31,10,28.8
+627,Propharmacie,Commerce de Biens à Usage Médicaux,76,86.84,10,22.4
+445,Service d'accompagnement médico-social adultes handicapés,Services de Maintien à Domicile pour Handicapés,601,98.5,9,30.0
+255,Maison d'Accueil Spécialisée (M.A.S.),Etab. et Services d'Hébergement pour Adultes Handicapés,801,98.88,9,16.1
+425,Centre d'Accueil Thérapeutique à temps partiel (C.A.T.T.P.),Autres Etablissements de Lutte contre les Maladies Mentales,667,98.65,9,27.9
+268,Centre Médico-Scolaire,Dispensaires ou Centres de Soins,108,91.67,9,39.8
+197,Centre soins accompagnement prévention addictologie (CSAPA),Autres Etablissements médico-sociaux,519,98.27,9,19.1
+207,Centre de Jour pour Personnes Agées,Services de Maintien à Domicile pour Personnes Âgées,320,97.5,8,24.4
+209,Service autonomie aide et soins (SAAS),Etablissements et services multi-clientèles,435,98.16,8,22.8
+699,Entité Ayant Autorisation,Autres Etablissements Relevant de la Loi Hospitalière,210,96.19,8,30.0
+241,Etablissement de Placement,Etab.et Services du Ministère de la Justice pour Mineurs,219,96.35,8,6.4
+146,Structure d'Alternative à la dialyse en centre,Dialyse Ambulatoire,566,98.59,8,12.0
+330,Ecoles Formant aux Professions Sociales,Etablissements de Formation des Personnels Sociaux,550,98.73,7,14.2
+236,Service de placement familial,Etablissements de l'Aide Sociale à l'Enfance,156,96.15,6,9.0
+604,Communautés professionnelles territoriales de santé (CPTS),Autres structures d'exercice libéral,784,99.23,6,8.8
+190,Centre Action Médico-Sociale Précoce (C.A.M.S.P.),Services à Domicile ou Ambulatoires pour Handicapés,359,98.33,6,15.3
+443,Centre Accueil Demandeurs Asile (C.A.D.A.),Etablissements pour Adultes et Familles en Difficulté,415,98.55,6,6.0
+632,Structure Dispensatrice à domicile d'Oxygène à usage médical,Commerce de Biens à Usage Médicaux,893,99.44,5,8.6
+616,Services de Prévention et de Santé au Travail (SPST),Services de Prévention et de Sante au Travail (SPST),439,98.86,5,1.6
+440,Service d'Investigation Educative,Etab.et Services du Ministère de la Justice pour Mineurs,159,96.86,5,13.2
+161,Maison de Santé pour Maladies Mentales,Autres Etablissements de Lutte contre les Maladies Mentales,323,98.45,5,8.7
+165,Appartement de Coordination Thérapeutique (A.C.T.),Autres Etablissements médico-sociaux,266,98.12,5,27.8
+644,Etab. de mise à l'abri pour les pers. se déclarant M.N.A.,Services Concourant à la Protection de l'Enfance,33,87.88,4,6.1
+502,EHPA ne percevant pas des crédits d'assurance maladie,Etablissements d'Hébergement pour Personnes Âgées,184,97.83,4,16.3
+180,Lits Halte Soins Santé (L.H.S.S.),Autres Etablissements médico-sociaux,216,98.15,4,32.4
+188,Etablissement pour Enfants ou Adolescents Polyhandicapés,Etab.Educ.Spéciale pour Déficients Mentaux et Handicapés,180,97.78,4,10.0
+166,Centre Parents-Enfants de moins de 3 ans,Etablissements de l'Aide Sociale à l'Enfance,209,98.09,4,6.2
+412,Appartement Thérapeutique,Autres Etablissements de Lutte contre les Maladies Mentales,97,95.88,4,38.1
+198,Etablissement et Service de Préorientation,Etab.et Services de Réinsertion Prof pour Adultes Handicapés,62,93.55,4,32.3
+365,Etablissement de Soins Pluridisciplinaire,Etablissements de Soins de Courte Durée,448,99.33,3,3.3
+208,Service d'Aide Ménagère à Domicile,Services Sociaux en Faveur des Personnes Âgées,3,0.0,3,0.0
+189,Centre Médico-Psycho-Pédagogique (C.M.P.P.),Services à Domicile ou Ambulatoires pour Handicapés,492,99.39,3,17.3
+194,Institut pour Déficients Visuels,Etab.Education Spéciale pour Déficients Sensoriels,28,89.29,3,21.4
+395,Etablissement d'Accueil Temporaire pour Adultes Handicapés,Etab. et Services d'Hébergement pour Adultes Handicapés,36,94.44,2,22.2
+461,Centres de Ressources S.A.I. (Sans Aucune Indication),Centres de ressources,77,97.4,2,45.5
+286,Service de prévention spécialisée,Services Concourant à la Protection de l'Enfance,305,99.34,2,11.5
+346,Service de Travailleuses Familiales,Etablissements ou Services Divers d'Aide à la Famille,2,0.0,2,0.0
+617,Lieux de soins non programmés,Autres structures d'exercice libéral,340,99.41,2,11.5
+192,Institut d'éducation motrice,Etablissements d'Education Spéciale pour Handicapés Moteurs,140,98.57,2,11.4
+131,Centre de Lutte Contre Cancer,Centres de Lutte contre le Cancer,31,93.55,2,16.1
+451,Service d'Aide aux Familles en Difficulté,Etablissements ou Services Divers d'Aide à la Famille,2,0.0,2,0.0
+142,Dispensaire Antituberculeux,Dispensaires ou Centres de Soins,21,90.48,2,52.4
+106,"Centre hospitalier, ex Hôpital local",Hôpitaux Locaux,195,98.97,2,1.0
+362,Etablissement de Soins Longue Durée,Etablissements de Soins de Longue Durée,577,99.65,2,6.8
+347,Centre d'Examens de Santé,Dispensaires ou Centres de Soins,143,98.6,2,15.4
+340,Service mandataire judiciaire à la protection des majeurs,Protection des majeurs,360,99.44,2,6.1
+381,Etablissement Expérimental pour Personnes Agées,Etablissements Expérimentaux en Faveur des Personnes Âgées,34,94.12,2,44.1
+645,Centre de vaccination,Dispensaires ou Centres de Soins,111,98.2,2,64.9
+463,Centres Locaux Information Coordination P.A .(C.L.I.C.),Centres de ressources,326,99.39,2,27.0
+127,Hospitalisation à Domicile,Traitements et Soins à Domicile,137,98.54,2,10.9
+368,Service de Repas à Domicile,Services Sociaux en Faveur des Personnes Âgées,2,0.0,2,0.0
+411,Intermédiaire de Placement Social,Etablissements de l'Aide Sociale à l'Enfance,15,86.67,2,26.7
+213,Lits d'Accueil Médicalisés (L.A.M.),Autres Etablissements médico-sociaux,61,98.36,1,37.7
+450,Service d'Aide aux Personnes Agées,Services Sociaux en Faveur des Personnes Âgées,1,0.0,1,100.0
+294,Centre de Consultations Cancer,Dispensaires ou Centres de Soins,39,97.44,1,38.5
+606,Dispositif d'appui à la coordination,Centre de ressources transverse,143,99.3,1,2.1
+249,Etablissement et Service de Réadaptation Professionnelle,Etab.et Services de Réinsertion Prof pour Adultes Handicapés,103,99.03,1,17.5
+129,Etablissement de Soins Médicaux,Etablissements de Soins de Courte Durée,73,98.63,1,1.4
+224,Etablissement de Consultation Pré et Post-natale,Etablissements de PMI et de Planification Familiale,47,97.87,1,29.8
+231,"Espaces de vie affective, relationnelle et sexuelle (EVARS)",Etablissements de PMI et de Planification Familiale,58,98.28,1,22.4
+608,Equipe Mobile Médico-Sociale Précarité,Autres Etablissements médico-sociaux,112,99.11,1,59.8
+238,Centre d'Accueil Familial Spécialisé,Etablissements et Services Hébergement Enfants Handicapés,29,96.55,1,13.8
+256,Foyer Travailleurs Migrants non transformé en Résidence Soc.,Autres Etablissements Sociaux d'Hébergement et d'Accueil,127,99.21,1,1.6
+638,Centre gratuit d'information de dépistage et de diagnostic,Dispensaires ou Centres de Soins,178,99.44,1,62.9
+415,Service Médico-Psychologique Régional (S.M.P.R.),Autres Etablissements de Lutte contre les Maladies Mentales,41,97.56,1,36.6
+631,Maison de naissance,Maison de Naissance,11,90.91,1,18.2
+396,Foyer Hébergement Enfants et Adolescents Handicapés,Etablissements et Services Hébergement Enfants Handicapés,6,83.33,1,16.7
+141,Centre de dialyse,Dialyse Ambulatoire,108,99.07,1,4.6
+610,Laboratoire d'Analyses,Laboratoires de Biologie Médicale,5,80.0,1,20.0
+422,Traitements Spécialisés à Domicile,Traitements et Soins à Domicile,19,100.0,0,5.3
+402,Jardin d'Enfants Spécialisé,Etab.Educ.Spéciale pour Déficients Mentaux et Handicapés,3,100.0,0,33.3
+636,Centre de soins et de prévention,Centres de Santé,108,100.0,0,9.3
+430,Centre Postcure Malades Mentaux,Autres Etablissements de Lutte contre les Maladies Mentales,57,100.0,0,7.0
+438,Centre de Médecine collective,Dispensaires ou Centres de Soins,10,100.0,0,10.0
+442,Centre Provisoire Hébergement (C.P.H.),Etablissements pour Adultes et Familles en Difficulté,164,100.0,0,7.9
+624,Laboratoire pharmaceutique préparant délivrant allergènes,Commerce de Biens à Usage Médicaux,3,100.0,0,0.0
+271,Maisons d'accueil hospitalières (M.A.H.),Autres Etablissements Sociaux d'Hébergement et d'Accueil,52,100.0,0,0.0
+464,Unités Evaluation Réentraînement et d'Orient. Soc. et Pro.,Centres prestataires de services pr personnes cérébro-lésées,35,100.0,0,25.7
+176,Village d'Enfants,Etablissements de l'Aide Sociale à l'Enfance,55,100.0,0,10.9
+648,Structure qui contribue au Service d'Accès aux Soins,Centre de ressources transverse,48,100.0,0,14.6
+642,Services départementaux d'incendie et de secours,Services d'incendie et de secours,91,100.0,0,2.2
+266,Dispensaire Antivénérien,Dispensaires ou Centres de Soins,24,100.0,0,25.0
+637,Centre de Lutte Antituberculeuse (CLAT),Dispensaires ou Centres de Soins,105,100.0,0,57.1
+609,Maisons Départementales des Personnes Handicapées,Centres de ressources,101,100.0,0,4.0
+270,Centre de Médecine Sportive,Dispensaires ou Centres de Soins,13,100.0,0,0.0
+643,Serv. d'éval. minorité et isolement pers. se décl. mineures,Services Concourant à la Protection de l'Enfance,8,100.0,0,0.0
+630,Installation autonome de chirurgie esthétique,Installations autonomes de chirurgie esthétique,30,100.0,0,13.3
+178,Ctre.Accueil/ Accomp.Réduc.Risq.Usag. Drogues (C.A.A.R.U.D.),Autres Etablissements médico-sociaux,167,100.0,0,33.5
+444,Centre Crise Accueil Permanent,Autres Etablissements de Lutte contre les Maladies Mentales,21,100.0,0,14.3
+649,Centre de santé et de médiation en santé sexuelle,Etablissements de PMI et de Planification Familiale,2,100.0,0,0.0
+143,Centre de Vaccination BCG,Dispensaires ou Centres de Soins,32,100.0,0,50.0
+607,Groupement Régional d'Appui au Développement de la e-Santé,Centre de ressources transverse,18,100.0,0,0.0
+646,Centre de vaccination internationale,Dispensaires ou Centres de Soins,61,100.0,0,62.3
+216,Résidence Hôtelière à Vocation Sociale (R.H.V.S.),Etablissements pour Adultes et Familles en Difficulté,42,100.0,0,21.4
+639,Sociétés de téléconsultation (STLC),Centres de Santé,7,100.0,0,0.0
+501,EHPA percevant des crédits d'assurance maladie,Etablissements d'Hébergement pour Personnes Âgées,25,100.0,0,12.0
+196,Institut d'Education Sensorielle Sourd/Aveugle,Etab.Education Spéciale pour Déficients Sensoriels,21,100.0,0,19.0
+614,Dispositif Spécifique Régional du Cancer,Centre de ressources transverse,16,100.0,0,0.0
+122,Etablissement Soins Obstétriques Chirurgico-Gynécologiques,Etablissements de Soins de Courte Durée,3,100.0,0,0.0
+344,Service délégué aux prestations familiales,Services Concourant à la Protection de l'Enfance,124,100.0,0,16.1
+426,Syndicat Inter Hospitalier (S.I.H.),Autres Etablissements Relevant de la Loi Hospitalière,3,100.0,0,0.0
+374,Ecole des Hautes Etudes en Santé Publique (E.H.E.S.P.),Etablissements de Formation Polyvalente,1,100.0,0,0.0
+115,Etablissement de Soins du Service de Santé des Armées,Etab.de soins relevant du service de santé des armées,1,100.0,0,0.0
+633,Structure Expérimentale en Santé,Etablissements Expérimentaux en Santé,86,100.0,0,4.7
+366,Atelier Thérapeutique,Autres Etablissements de Lutte contre les Maladies Mentales,36,100.0,0,33.3
+172,Pouponnière à Caractère Social,Etablissements de l'Aide Sociale à l'Enfance,46,100.0,0,13.0
+128,Etablissement de Soins Chirurgicaux,Etablissements de Soins de Courte Durée,107,100.0,0,2.8
+221,Bureau d'Aide Psychologique Universitaire (B.A.P.U.),Services à Domicile ou Ambulatoires pour Handicapés,16,100.0,0,37.5
+641,Antenne de Pharmacie d'officine,Commerce de Biens à Usage Médicaux,6,100.0,0,0.0
+380,Etablissement Expérimental Autres Adultes,Etablissements Expérimentaux en Faveur des Adultes,9,100.0,0,44.4
+647,Equipes de Soins Spécialisées,Autres structures d'exercice libéral,37,100.0,0,5.4
+114,Hôpital des armées,Etab.de soins relevant du service de santé des armées,10,100.0,0,0.0
+195,Institut pour Déficients Auditifs,Etab.Education Spéciale pour Déficients Sensoriels,62,100.0,0,19.4
+629,Pharmacie Mutualiste,Commerce de Biens à Usage Médicaux,37,100.0,0,2.7
+269,Centre de Médecine Universitaire,Dispensaires ou Centres de Soins,42,100.0,0,9.5
+390,Etablissement d'Accueil Temporaire d'Enfants Handicapés,Etablissements et Services Hébergement Enfants Handicapés,12,100.0,0,41.7
+342,Service d'information et de soutien aux tuteurs familiaux,Protection des majeurs,16,100.0,0,12.5
+433,Etablissement Sanitaire des Prisons,Etablissements ne relevant pas de la Loi Hospitalière,7,100.0,0,0.0
+436,Ecoles Formant aux Professions Sanitaires et Sociales,Etablissements de Formation Polyvalente,104,100.0,0,4.8
+612,Autre Laboratoire de Biologie Médicale sans FSE,Laboratoires de Biologie Médicale,22,100.0,0,31.8
+341,Service dédié mesures d'accompagnement social personnalisé,Protection des majeurs,28,100.0,0,7.1
+628,Pharmacie Minière,Commerce de Biens à Usage Médicaux,17,100.0,0,23.5

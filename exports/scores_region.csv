@@ -1,0 +1,20 @@
+region,etablissements,score_qualite,bloquantes,majeures,mineures
+Collectivités d'outre-mer,18,88.89,0,2,4
+Guadeloupe,694,91.93,0,59,483
+Guyane,298,91.95,0,26,225
+Mayotte,189,92.06,0,15,108
+Bourgogne-Franche-Comté,5008,93.23,4,339,1265
+Corse,607,93.41,0,40,298
+Occitanie,10016,94.35,6,573,1909
+Pays de la Loire,5890,94.45,2,329,1108
+Martinique,584,94.52,0,32,348
+Hauts-de-France,9076,94.7,0,488,2650
+Grand Est,8202,95.06,0,413,1505
+Auvergne-Rhône-Alpes,12508,95.28,4,597,2636
+Normandie,5607,95.51,0,255,1585
+Centre-Val de Loire,4197,95.52,6,186,863
+Bretagne,5201,96.48,0,183,1543
+Nouvelle-Aquitaine,10008,96.53,2,354,1996
+Île-de-France,15963,97.38,4,416,2727
+Provence-Alpes-Côte d'Azur,7997,98.12,4,146,1894
+La Réunion,876,98.63,0,12,242
